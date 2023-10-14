@@ -1,6 +1,12 @@
 # TakaiPhone
 
-Sebuah aplikasi web e-commerce sederhana yang khusus melayani penjualan handphone. Saya mohon maaf apabila link untuk aplikasi ini belum tersedia. Apabila anda tertarik dengan source code backend yang digunakan pada aplikasi ini anda dapat mengunjungi link berikut.
+Sebuah aplikasi web e-commerce sederhana yang khusus melayani penjualan handphone. Saya mohon maaf apabila link untuk aplikasi frontend belum tersedia. Akan tetapi anda tetap bisa mencobanya di local computer anda menggunakan API yang telah saya sediakan.
+
+#### API URL:
+
+API: [https://dark-plum-squirrel-slip.cyclic.app](https://dark-plum-squirrel-slip.cyclic.app)
+
+#### Source Code:
 
 Backend : [https://github.com/Andrian004/takaiphone-api](https://github.com/Andrian004/takaiphone-api)
 
@@ -38,6 +44,10 @@ $ npm run start
 # generate static project
 $ npm run generate
 ```
+
+## Env
+
+- `BASE_URL= API_URL`
 
 ### Thanks to:
 
